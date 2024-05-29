@@ -12,7 +12,7 @@ The Smart City project is a Java-based application designed to enhance urban liv
 - Environment monitoring
 
 ## Technologies Used
-- **Java**: Core programming language used for developing the application
+- **Java**: Core programming language used for developing the application.
 - **MySQL**: Database management system for storing and managing data
 - **phpMyAdmin**: Web-based interface for MySQL administration
 
