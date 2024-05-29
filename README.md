@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/smart-city-project.git
+   git clone https://github.com/pariva123/smart-city-project.git
    cd smart-city-project
 
 ## Set Up the Database
